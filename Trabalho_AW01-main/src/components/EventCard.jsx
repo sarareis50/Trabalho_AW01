@@ -26,7 +26,7 @@ function EventCard({
         {/* Badge de Categoria e Esgotado */}
         <div className="flex flex-wrap gap-2 mb-4">
           <span className="text-xs font-medium text-teal-700 bg-teal-50 px-2.5 py-1 rounded-md">
-            🏷️ {categoryName || 'Geral'}
+             {categoryName || 'Geral'}
           </span>
           {soldOut && (
             <span className="text-xs font-medium text-red-700 bg-red-50 px-2.5 py-1 rounded-md">
@@ -37,12 +37,12 @@ function EventCard({
 
         {/* Data e Hora de Início */}
         <p className="text-xs font-medium text-slate-500 mb-2">
-          📅 {new Date(startsAt).toLocaleString('pt-PT', { dateStyle: 'medium', timeStyle: 'short' })}
+           {new Date(startsAt).toLocaleString('pt-PT', { dateStyle: 'medium', timeStyle: 'short' })}
         </p>
 
         {/* Localização */}
         <p className="text-sm text-slate-500 mb-3 flex items-center gap-1.5">
-          📍 {location}
+           {location}
         </p>
 
         {/* Descrição resumida */}
