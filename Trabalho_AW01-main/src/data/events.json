@@ -1,0 +1,103 @@
+[
+  {
+    "id": 1,
+    "title": "Introdução ao React e Hooks",
+    "description": "Aprende os conceitos fundamentais de React, componentes funcionais e hooks.",
+    "location": "ESTG - Lab 1",
+    "startsAt": "2026-11-15T10:00",
+    "endsAt": "2026-11-15T13:00",
+    "capacity": 2,
+    "categoryId": 1,
+    "organizerId": 1
+  },
+  {
+    "id": 2,
+    "title": "Segurança em Aplicações Web",
+    "description": "Boas práticas de segurança e prevenção de vulnerabilidades web.",
+    "location": "Auditório Principal",
+    "startsAt": "2026-10-01T14:00",
+    "endsAt": "2026-10-01T16:00",
+    "capacity": 30,
+    "categoryId": 2,
+    "organizerId": 1
+  },
+  {
+    "id": 3,
+    "title": "Sessão de Esclarecimento de Base de Dados",
+    "description": "Tira dúvidas sobre modelação relacional e queries complexas.",
+    "location": "Auditório da Sala 1 ESTG",
+    "startsAt": "2026-11-20T15:00",
+    "endsAt": "2026-11-20T17:00",
+    "capacity": 25,
+    "categoryId": 3,
+    "organizerId": 2
+  },
+  
+  {
+    "id": 4,
+    "title": "Palestra sobre Game Engines",
+    "description": "Tira dúvidas sobre o game engine Unity e Unreal Engine, incluindo modelação 3D, animação e programação.",
+    "location": "Auditório da Sala 1 ESTG",
+    "startsAt": "2026-11-24T17:00",
+    "endsAt": "2026-11-24T18:30",
+    "capacity": 15,
+    "categoryId": 2,
+    "organizerId": 2
+  },
+
+{
+    "id": 5,
+    "title": "Torneio de E-Sports ESTG",
+    "description": "Competição de jogos de estratégia e entretenimento digital entre estudantes.",
+    "location": "Sala de Convívio ESTG",
+    "startsAt": "2026-11-25T14:00",
+    "endsAt": "2026-11-25T19:00",
+    "capacity": 2,
+    "categoryId": 1,
+    "organizerId": 2
+  },
+  {
+    "id": 6,
+    "title": "Masterclass de UI/UX com Figma",
+    "description": "Criação de protótipos interativos, wireframes e sistemas de design modernos.",
+    "location": "Laboratório de Multimédia",
+    "startsAt": "2026-11-28T09:30",
+    "endsAt": "2026-11-28T12:30",
+    "capacity": 20,
+    "categoryId": 1,
+    "organizerId": 1
+  },
+  {
+    "id": 7,
+    "title": "Empregabilidade e Saídas Profissionais em DWM",
+    "description": "Painel de discussão com antigos alunos sobre o mercado de trabalho em web e multimédia.",
+    "location": "Auditório Principal",
+    "startsAt": "2026-12-05T15:00",
+    "endsAt": "2026-12-05T17:00",
+    "capacity": 50,
+    "categoryId": 2,
+    "organizerId": 1
+  },
+  {
+    "id": 8,
+    "title": "Oficina de Programação Orientada a Objetos",
+    "description": "Resolução prática de exercícios avançados em Java para preparação para a avaliação.",
+    "location": "ESTG - Lab 3",
+    "startsAt": "2026-12-10T10:00",
+    "endsAt": "2026-12-10T13:00",
+    "capacity": 15,
+    "categoryId": 3,
+    "organizerId": 3
+  },
+  {
+    "id": 9,
+    "title": "Serão de Jogos Indie e Animação 2D",
+    "description": "Apresentação e teste de jogos desenvolvidos por estudantes com Phaser 3 e Blender.",
+    "location": "Salão Académico",
+    "startsAt": "2026-12-15T16:00",
+    "endsAt": "2026-12-15T20:00",
+    "capacity": 40,
+    "categoryId": 1,
+    "organizerId": 2
+  }
+]
